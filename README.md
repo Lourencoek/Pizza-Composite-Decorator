@@ -1,4 +1,4 @@
-O que você encontrará
+O que você vai achar nesse projeto
 
 Estrutura de itens de pedido com três níveis ou mais (produto simples, conjuntos de itens e sub-conjuntos).
 
